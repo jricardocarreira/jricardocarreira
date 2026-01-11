@@ -1,5 +1,3 @@
-## Ricardo “Bug”
-
 **Product Designer focused on UX, UI, and building real-world products.**  
 I create digital and physical products from concept to operation, combining design, technology, and storytelling.
 
@@ -35,3 +33,4 @@ Here you’ll find frontend projects, UI experiments, and tools that are part of
 </div>
 
 I use content as part of the product: to explain, test, improve, and build community around what I create.
+
